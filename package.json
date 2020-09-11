@@ -1,0 +1,15 @@
+{
+  "name": "04-tareas-por-hacer",
+  "version": "1.0.0",
+  "description": "Esta es una aplicación realizada con NODE \"Tareas por hacer\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Braulio Hermida",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.4.0"
+  }
+}
